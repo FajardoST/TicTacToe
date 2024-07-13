@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe game, function definitions and programming of a simple game
+#This simple game created by crafting multiple functions that will work all together as a program to make this simple game interactive!.
